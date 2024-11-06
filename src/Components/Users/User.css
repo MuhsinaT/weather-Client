@@ -1,0 +1,36 @@
+.users-table {
+    margin: 20px auto; 
+    padding: 20px;
+    max-width: 900px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa; 
+    overflow-x: auto;
+}
+
+h3 {
+    color: #563e7c; 
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold; 
+}
+
+.table {
+    background-color: #8493cd;
+}
+
+.table th {
+    background-color: #6b4b9a; 
+    color: #fff; 
+    text-align: center; 
+}
+
+.table td {
+    color: #3f4d75; 
+    text-align: center; 
+    font-size: 0.9rem;
+}
+
+.table tbody tr:hover {
+    background-color: #f0e3d7; 
+}
