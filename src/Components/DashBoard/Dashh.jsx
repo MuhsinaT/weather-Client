@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './dash.css';
+import './Dash.css';
 import { Row, Col } from 'react-bootstrap';
 import User from '../Users/User';
 import Weather from '../Weather/Weather';
